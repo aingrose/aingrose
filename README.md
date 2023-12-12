@@ -1,19 +1,19 @@
+[![MasterHead](https://images.unsplash.com/photo-1545670723-196ed0954986?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww)]
 <h1 align="center">Hi 👋, I'm MAHESHKUMAR A</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aingrose&label=Profile%20views&color=0e75b6&style=flat" alt="aingrose" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aingrose" alt="aingrose" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 💬 Ask me about **Html,Css,Javascript,Reactjs,Bootstrap,Nodejs,MongoDB,**
+- 💬 Ask me about **Javascript,Reactjs,bootstrap,Nodejs,Mongodb,html,css**
 
 - 📫 How to reach me **maheshrdrv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maheshkumar-a-a90592212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maheshkumar-a-a90592212" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maheshkumar-a-a90592212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheshkumar-a-a90592212" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
