@@ -1,4 +1,5 @@
-![MasterHead](https://images.unsplash.com/photo-1605379399642-870262d3d051.jpg)
+<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051" width="800" alt="MasterHead">
+
 
 <h1 align="center">Hi 👋, I'm MAHESH </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
